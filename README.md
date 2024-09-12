@@ -32,7 +32,7 @@ Memory Master: Emoji Challenge is an engaging React-based memory game that chall
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/suiisharma/Shram-Frontend-
+    git clone [https://github.com/suiisharma/Shram-Frontend-](https://github.com/suiisharma/Shram-Frontend-.git)
     cd Shram-Frontend-
     ```
 
