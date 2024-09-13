@@ -41,8 +41,14 @@ Memory Master: Emoji Challenge is an engaging React-based memory game that chall
     npm install
     ```
 
-3. Change `REACT_APP_API_URL` in `App.js` to the value where the backend is hosted.
+3. Configure the API URL:
+   - Open the `App.js` file in your project directory.
+   - Locate the `REACT_APP_API_URL` variable.
+   - Set its value to the URL where your backend is hosted.
 
+   Example:
+   ```javascript
+   const REACT_APP_API_URL = 'https://your-backend-url.com';
 4. Start the development server:
     ```bash
     npm run dev
