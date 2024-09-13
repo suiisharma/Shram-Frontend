@@ -10,7 +10,7 @@ import { UserContext } from './context/usercontext.jsx';
 
 
 
-export const REACT_APP_API_URL="https://shram-backend.pages.dev";
+export const REACT_APP_API_URL="https://shram-backend-xhw8.onrender.com";
 
 const App = () => {
   const {user}=useContext(UserContext);
